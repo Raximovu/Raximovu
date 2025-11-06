@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338348083115",
+    "project_id": "salon-time-l4bcs0",
+    "storage_bucket": "salon-time-l4bcs0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338348083115:android:e9289e76a539f8b442b4ee",
+        "android_client_info": {
+          "package_name": "com.mycompany.salontime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKWLPUvjWaZD7DfvDAFj1UyLNe-KsO5yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
